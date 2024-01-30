@@ -1,0 +1,8 @@
+--- before-format.json	2023-10-17 17:03:20
++++ after-format.json	2023-10-17 17:03:15
+-                  "raw": "\"GET\""
++                  "raw": "'GET'"
+-                "raw": "\"json\""
++                "raw": "'json'"
+-                  "raw": "\"Authorization\""
++                  "raw": "'Authorization'"
